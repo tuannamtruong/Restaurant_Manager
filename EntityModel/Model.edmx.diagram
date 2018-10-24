@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="c681f77834da4cad80b1b3341661f22c" Name="Diagram1">
+        <EntityTypeShape EntityType="RestaurantManagementApplication_DBModel.Account" Width="1.5" PointX="5.75" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RestaurantManagementApplication_DBModel.Bill" Width="1.5" PointX="3" PointY="4.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="RestaurantManagementApplication_DBModel.BillInfo" Width="1.5" PointX="5.25" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="RestaurantManagementApplication_DBModel.Food" Width="1.5" PointX="3" PointY="0.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="RestaurantManagementApplication_DBModel.FoodCategory" Width="1.5" PointX="0.75" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="RestaurantManagementApplication_DBModel.GuestTable" Width="1.5" PointX="0.75" PointY="5.125" IsExpanded="true" />
+        <AssociationConnector Association="RestaurantManagementApplication_DBModel.FK_Bill_ToGuestTable" ManuallyRouted="false" />
+        <AssociationConnector Association="RestaurantManagementApplication_DBModel.FK_BillInfo_ToBill" ManuallyRouted="false" />
+        <AssociationConnector Association="RestaurantManagementApplication_DBModel.FK_BillInfo_ToFood" ManuallyRouted="false" />
+        <AssociationConnector Association="RestaurantManagementApplication_DBModel.FK_Food_ToFoodCategory" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,26 @@
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_DTO\bin\Debug\RestaurantManagement_DTO.dll
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_DTO\bin\Debug\RestaurantManagement_DTO.pdb
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_DTO\bin\Debug\RestaurantManagement_DAO.dll
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_DTO\bin\Debug\NHibernate.dll
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_DTO\bin\Debug\Iesi.Collections.dll
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_DTO\bin\Debug\RestaurantManagement_DAO.pdb
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_DTO\bin\Debug\NHibernate.xml
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_DTO\bin\Debug\Iesi.Collections.xml
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_DTO\obj\Debug\RestaurantManagement_DTO.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_DTO\obj\Debug\RestaurantManagement_DTO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_DTO\obj\Debug\RestaurantManagement_DTO.csproj.CopyComplete
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_DTO\obj\Debug\RestaurantManagement_DTO.dll
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_DTO\obj\Debug\RestaurantManagement_DTO.pdb
+C:\Users\User\Desktop\First Version\RestaurantManagement_DTO\bin\Debug\RestaurantManagement_DTO.dll
+C:\Users\User\Desktop\First Version\RestaurantManagement_DTO\bin\Debug\RestaurantManagement_DTO.pdb
+C:\Users\User\Desktop\First Version\RestaurantManagement_DTO\bin\Debug\RestaurantManagement_DAO.dll
+C:\Users\User\Desktop\First Version\RestaurantManagement_DTO\bin\Debug\NHibernate.dll
+C:\Users\User\Desktop\First Version\RestaurantManagement_DTO\bin\Debug\Iesi.Collections.dll
+C:\Users\User\Desktop\First Version\RestaurantManagement_DTO\bin\Debug\RestaurantManagement_DAO.pdb
+C:\Users\User\Desktop\First Version\RestaurantManagement_DTO\bin\Debug\NHibernate.xml
+C:\Users\User\Desktop\First Version\RestaurantManagement_DTO\bin\Debug\Iesi.Collections.xml
+C:\Users\User\Desktop\First Version\RestaurantManagement_DTO\obj\Debug\RestaurantManagement_DTO.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\First Version\RestaurantManagement_DTO\obj\Debug\RestaurantManagement_DTO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\First Version\RestaurantManagement_DTO\obj\Debug\RestaurantManagement_DTO.csproj.CopyComplete
+C:\Users\User\Desktop\First Version\RestaurantManagement_DTO\obj\Debug\RestaurantManagement_DTO.dll
+C:\Users\User\Desktop\First Version\RestaurantManagement_DTO\obj\Debug\RestaurantManagement_DTO.pdb

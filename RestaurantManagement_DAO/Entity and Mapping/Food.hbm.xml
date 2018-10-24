@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="RestaurantManagement_DAO"
+                   namespace="RestaurantManagement_DAO.Entity_and_Mapping">
+
+  <class name ="Food">
+    <id name="Id">
+      <generator class="native"/>
+    </id>
+    <property name="Name"/>
+    <property name="Price"/>
+    <many-to-one name="FoodCategory" class="FoodCategory" column="IdCategory"/>
+    <set name = "BillInfoCollection" table = "`BillInfo`">
+      <key column = "IdFood"/>
+      <one-to-many class = "BillInfo"/>
+    </set>
+  </class>
+
+</hibernate-mapping>

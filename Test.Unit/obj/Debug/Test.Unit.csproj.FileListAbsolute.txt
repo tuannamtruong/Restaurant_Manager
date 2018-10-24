@@ -1,0 +1,79 @@
+C:\Users\User\Desktop\ManagementApplication - Kopie\Test.Unit\bin\Debug\Test.Unit.dll
+C:\Users\User\Desktop\ManagementApplication - Kopie\Test.Unit\bin\Debug\Test.Unit.pdb
+C:\Users\User\Desktop\ManagementApplication - Kopie\Test.Unit\bin\Debug\Antlr3.Runtime.dll
+C:\Users\User\Desktop\ManagementApplication - Kopie\Test.Unit\bin\Debug\Iesi.Collections.dll
+C:\Users\User\Desktop\ManagementApplication - Kopie\Test.Unit\bin\Debug\NHibernate.dll
+C:\Users\User\Desktop\ManagementApplication - Kopie\Test.Unit\bin\Debug\nunit.framework.dll
+C:\Users\User\Desktop\ManagementApplication - Kopie\Test.Unit\bin\Debug\Remotion.Linq.dll
+C:\Users\User\Desktop\ManagementApplication - Kopie\Test.Unit\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\User\Desktop\ManagementApplication - Kopie\Test.Unit\bin\Debug\RestaurantManagement_FrontEnd.exe
+C:\Users\User\Desktop\ManagementApplication - Kopie\Test.Unit\bin\Debug\RestaurantManagement_FrontEnd.pdb
+C:\Users\User\Desktop\ManagementApplication - Kopie\Test.Unit\bin\Debug\RestaurantManagement_FrontEnd.exe.config
+C:\Users\User\Desktop\ManagementApplication - Kopie\Test.Unit\bin\Debug\Antlr3.Runtime.xml
+C:\Users\User\Desktop\ManagementApplication - Kopie\Test.Unit\bin\Debug\Iesi.Collections.xml
+C:\Users\User\Desktop\ManagementApplication - Kopie\Test.Unit\bin\Debug\NHibernate.xml
+C:\Users\User\Desktop\ManagementApplication - Kopie\Test.Unit\bin\Debug\nunit.framework.pdb
+C:\Users\User\Desktop\ManagementApplication - Kopie\Test.Unit\bin\Debug\nunit.framework.xml
+C:\Users\User\Desktop\ManagementApplication - Kopie\Test.Unit\bin\Debug\Remotion.Linq.xml
+C:\Users\User\Desktop\ManagementApplication - Kopie\Test.Unit\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\User\Desktop\ManagementApplication - Kopie\Test.Unit\obj\Debug\Test.Unit.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ManagementApplication - Kopie\Test.Unit\obj\Debug\Test.Unit.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ManagementApplication - Kopie\Test.Unit\obj\Debug\Test.Unit.csproj.CopyComplete
+C:\Users\User\Desktop\ManagementApplication - Kopie\Test.Unit\obj\Debug\Test.Unit.dll
+C:\Users\User\Desktop\ManagementApplication - Kopie\Test.Unit\obj\Debug\Test.Unit.pdb
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\Test.Unit\obj\Debug\Test.Unit.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\Test.Unit\obj\Debug\Test.Unit.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\Test.Unit\obj\Debug\Test.Unit.dll
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\Test.Unit\obj\Debug\Test.Unit.pdb
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\Test.Unit\bin\Debug\RestaurantManagement_NHibernate.mdf
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\Test.Unit\bin\Debug\RestaurantManagement_NHibernate_log.ldf
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\Test.Unit\bin\Debug\Test.Unit.dll
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\Test.Unit\bin\Debug\Test.Unit.pdb
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\Test.Unit\bin\Debug\Antlr3.Runtime.dll
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\Test.Unit\bin\Debug\Iesi.Collections.dll
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\Test.Unit\bin\Debug\NHibernate.dll
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\Test.Unit\bin\Debug\nunit.framework.dll
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\Test.Unit\bin\Debug\Remotion.Linq.dll
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\Test.Unit\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\Test.Unit\bin\Debug\RestaurantManagement_DAO.dll
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\Test.Unit\bin\Debug\RestaurantManagement_FrontEnd.exe
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\Test.Unit\bin\Debug\RestaurantManagement_DTO.dll
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\Test.Unit\bin\Debug\RestaurantManagement_DAO.pdb
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\Test.Unit\bin\Debug\RestaurantManagement_FrontEnd.pdb
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\Test.Unit\bin\Debug\RestaurantManagement_FrontEnd.exe.config
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\Test.Unit\bin\Debug\Antlr3.Runtime.xml
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\Test.Unit\bin\Debug\Iesi.Collections.xml
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\Test.Unit\bin\Debug\NHibernate.xml
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\Test.Unit\bin\Debug\nunit.framework.pdb
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\Test.Unit\bin\Debug\nunit.framework.xml
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\Test.Unit\bin\Debug\Remotion.Linq.xml
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\Test.Unit\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\Test.Unit\bin\Debug\RestaurantManagement_DTO.pdb
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\Test.Unit\obj\Debug\Test.Unit.csproj.CopyComplete
+C:\Users\User\Desktop\First Version\Test.Unit\obj\Debug\Test.Unit.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\First Version\Test.Unit\obj\Debug\Test.Unit.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\First Version\Test.Unit\obj\Debug\Test.Unit.dll
+C:\Users\User\Desktop\First Version\Test.Unit\obj\Debug\Test.Unit.pdb
+C:\Users\User\Desktop\First Version\Test.Unit\bin\Debug\Test.Unit.dll
+C:\Users\User\Desktop\First Version\Test.Unit\bin\Debug\Test.Unit.pdb
+C:\Users\User\Desktop\First Version\Test.Unit\bin\Debug\Antlr3.Runtime.dll
+C:\Users\User\Desktop\First Version\Test.Unit\bin\Debug\Iesi.Collections.dll
+C:\Users\User\Desktop\First Version\Test.Unit\bin\Debug\NHibernate.dll
+C:\Users\User\Desktop\First Version\Test.Unit\bin\Debug\nunit.framework.dll
+C:\Users\User\Desktop\First Version\Test.Unit\bin\Debug\Remotion.Linq.dll
+C:\Users\User\Desktop\First Version\Test.Unit\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\User\Desktop\First Version\Test.Unit\bin\Debug\RestaurantManagement_DAO.dll
+C:\Users\User\Desktop\First Version\Test.Unit\bin\Debug\RestaurantManagement_FrontEnd.exe
+C:\Users\User\Desktop\First Version\Test.Unit\bin\Debug\RestaurantManagement_DTO.dll
+C:\Users\User\Desktop\First Version\Test.Unit\bin\Debug\RestaurantManagement_DAO.pdb
+C:\Users\User\Desktop\First Version\Test.Unit\bin\Debug\RestaurantManagement_FrontEnd.pdb
+C:\Users\User\Desktop\First Version\Test.Unit\bin\Debug\RestaurantManagement_FrontEnd.exe.config
+C:\Users\User\Desktop\First Version\Test.Unit\bin\Debug\Antlr3.Runtime.xml
+C:\Users\User\Desktop\First Version\Test.Unit\bin\Debug\Iesi.Collections.xml
+C:\Users\User\Desktop\First Version\Test.Unit\bin\Debug\NHibernate.xml
+C:\Users\User\Desktop\First Version\Test.Unit\bin\Debug\nunit.framework.pdb
+C:\Users\User\Desktop\First Version\Test.Unit\bin\Debug\nunit.framework.xml
+C:\Users\User\Desktop\First Version\Test.Unit\bin\Debug\Remotion.Linq.xml
+C:\Users\User\Desktop\First Version\Test.Unit\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\User\Desktop\First Version\Test.Unit\bin\Debug\RestaurantManagement_DTO.pdb
+C:\Users\User\Desktop\First Version\Test.Unit\obj\Debug\Test.Unit.csproj.CopyComplete

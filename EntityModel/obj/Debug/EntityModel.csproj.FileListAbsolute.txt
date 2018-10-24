@@ -1,0 +1,23 @@
+C:\Users\User\Desktop\ManagementApplication\EntityModel\bin\Debug\EntityModel.dll.config
+C:\Users\User\Desktop\ManagementApplication\EntityModel\bin\Debug\EntityModel.dll
+C:\Users\User\Desktop\ManagementApplication\EntityModel\bin\Debug\EntityModel.pdb
+C:\Users\User\Desktop\ManagementApplication\EntityModel\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\ManagementApplication\EntityModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\ManagementApplication\EntityModel\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\ManagementApplication\EntityModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\ManagementApplication\EntityModel\obj\Debug\EntityModel.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ManagementApplication\EntityModel\obj\Debug\EntityModel.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ManagementApplication\EntityModel\obj\Debug\EntityModel.csproj.CopyComplete
+C:\Users\User\Desktop\ManagementApplication\EntityModel\obj\Debug\EntityModel.dll
+C:\Users\User\Desktop\ManagementApplication\EntityModel\obj\Debug\EntityModel.pdb
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\EntityModel\bin\Debug\EntityModel.dll.config
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\EntityModel\bin\Debug\EntityModel.dll
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\EntityModel\bin\Debug\EntityModel.pdb
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\EntityModel\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\EntityModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\EntityModel\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\EntityModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\EntityModel\obj\Debug\EntityModel.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\EntityModel\obj\Debug\EntityModel.csproj.CopyComplete
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\EntityModel\obj\Debug\EntityModel.dll
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\EntityModel\obj\Debug\EntityModel.pdb

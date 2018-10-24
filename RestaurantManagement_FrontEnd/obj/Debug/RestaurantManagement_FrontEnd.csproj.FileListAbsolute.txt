@@ -1,0 +1,92 @@
+C:\Users\User\Desktop\ManagementApplication\RestaurantManagement_FrontEnd\bin\Debug\RestaurantManagement_FrontEnd.exe.config
+C:\Users\User\Desktop\ManagementApplication\RestaurantManagement_FrontEnd\bin\Debug\RestaurantManagement_FrontEnd.exe
+C:\Users\User\Desktop\ManagementApplication\RestaurantManagement_FrontEnd\bin\Debug\RestaurantManagement_FrontEnd.pdb
+C:\Users\User\Desktop\ManagementApplication\RestaurantManagement_FrontEnd\obj\Debug\RestaurantManagement_FrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ManagementApplication\RestaurantManagement_FrontEnd\obj\Debug\RestaurantManagement_FrontEnd.Properties.Resources.resources
+C:\Users\User\Desktop\ManagementApplication\RestaurantManagement_FrontEnd\obj\Debug\RestaurantManagement_FrontEnd.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ManagementApplication\RestaurantManagement_FrontEnd\obj\Debug\RestaurantManagement_FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ManagementApplication\RestaurantManagement_FrontEnd\obj\Debug\RestaurantManagement_FrontEnd.exe
+C:\Users\User\Desktop\ManagementApplication\RestaurantManagement_FrontEnd\obj\Debug\RestaurantManagement_FrontEnd.pdb
+C:\Users\User\Desktop\ManagementApplication\RestaurantManagement_FrontEnd\obj\Debug\RestaurantManagement_FrontEnd.LoginForm.resources
+C:\Users\User\Desktop\ManagementApplication\RestaurantManagement_FrontEnd\obj\Debug\RestaurantManagement_FrontEnd.TableManagerForm.resources
+C:\Users\User\Desktop\ManagementApplication\RestaurantManagement_FrontEnd\obj\Debug\RestaurantManagement_FrontEnd.AdminForm.resources
+C:\Users\User\Desktop\ManagementApplication\RestaurantManagement_FrontEnd\obj\Debug\RestaurantManagement_FrontEnd.UserInformationForm.resources
+C:\Users\User\Desktop\ManagementApplication - Kopie\RestaurantManagement_FrontEnd\bin\Debug\RestaurantManagement_FrontEnd.exe.config
+C:\Users\User\Desktop\ManagementApplication - Kopie\RestaurantManagement_FrontEnd\bin\Debug\RestaurantManagement_FrontEnd.exe
+C:\Users\User\Desktop\ManagementApplication - Kopie\RestaurantManagement_FrontEnd\bin\Debug\RestaurantManagement_FrontEnd.pdb
+C:\Users\User\Desktop\ManagementApplication - Kopie\RestaurantManagement_FrontEnd\obj\Debug\RestaurantManagement_FrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ManagementApplication - Kopie\RestaurantManagement_FrontEnd\obj\Debug\RestaurantManagement_FrontEnd.AdminForm.resources
+C:\Users\User\Desktop\ManagementApplication - Kopie\RestaurantManagement_FrontEnd\obj\Debug\RestaurantManagement_FrontEnd.LoginForm.resources
+C:\Users\User\Desktop\ManagementApplication - Kopie\RestaurantManagement_FrontEnd\obj\Debug\RestaurantManagement_FrontEnd.TableManagerForm.resources
+C:\Users\User\Desktop\ManagementApplication - Kopie\RestaurantManagement_FrontEnd\obj\Debug\RestaurantManagement_FrontEnd.Properties.Resources.resources
+C:\Users\User\Desktop\ManagementApplication - Kopie\RestaurantManagement_FrontEnd\obj\Debug\RestaurantManagement_FrontEnd.UserInformationForm.resources
+C:\Users\User\Desktop\ManagementApplication - Kopie\RestaurantManagement_FrontEnd\obj\Debug\RestaurantManagement_FrontEnd.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ManagementApplication - Kopie\RestaurantManagement_FrontEnd\obj\Debug\RestaurantManagement_FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ManagementApplication - Kopie\RestaurantManagement_FrontEnd\obj\Debug\RestaurantManagement_FrontEnd.exe
+C:\Users\User\Desktop\ManagementApplication - Kopie\RestaurantManagement_FrontEnd\obj\Debug\RestaurantManagement_FrontEnd.pdb
+C:\Users\User\Desktop\ManagementApplication - Kopie\RestaurantManagement_FrontEnd\bin\Debug\Antlr3.Runtime.dll
+C:\Users\User\Desktop\ManagementApplication - Kopie\RestaurantManagement_FrontEnd\bin\Debug\Iesi.Collections.dll
+C:\Users\User\Desktop\ManagementApplication - Kopie\RestaurantManagement_FrontEnd\bin\Debug\NHibernate.dll
+C:\Users\User\Desktop\ManagementApplication - Kopie\RestaurantManagement_FrontEnd\bin\Debug\Remotion.Linq.dll
+C:\Users\User\Desktop\ManagementApplication - Kopie\RestaurantManagement_FrontEnd\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\User\Desktop\ManagementApplication - Kopie\RestaurantManagement_FrontEnd\bin\Debug\Antlr3.Runtime.xml
+C:\Users\User\Desktop\ManagementApplication - Kopie\RestaurantManagement_FrontEnd\bin\Debug\Iesi.Collections.xml
+C:\Users\User\Desktop\ManagementApplication - Kopie\RestaurantManagement_FrontEnd\bin\Debug\NHibernate.xml
+C:\Users\User\Desktop\ManagementApplication - Kopie\RestaurantManagement_FrontEnd\bin\Debug\Remotion.Linq.xml
+C:\Users\User\Desktop\ManagementApplication - Kopie\RestaurantManagement_FrontEnd\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\User\Desktop\ManagementApplication - Kopie\RestaurantManagement_FrontEnd\obj\Debug\RestaurantManagement_FrontEnd.csproj.CopyComplete
+C:\Users\User\Desktop\ManagementApplication - Kopie\RestaurantManagement_FrontEnd\obj\Debug\RestaurantManagement_FrontEnd.TestForm.resources
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_FrontEnd\bin\Debug\RestaurantManagement_FrontEnd.exe.config
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_FrontEnd\bin\Debug\RestaurantManagement_FrontEnd.exe
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_FrontEnd\bin\Debug\RestaurantManagement_FrontEnd.pdb
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_FrontEnd\bin\Debug\Antlr3.Runtime.dll
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_FrontEnd\bin\Debug\Iesi.Collections.dll
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_FrontEnd\bin\Debug\NHibernate.dll
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_FrontEnd\bin\Debug\Remotion.Linq.dll
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_FrontEnd\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_FrontEnd\bin\Debug\Antlr3.Runtime.xml
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_FrontEnd\bin\Debug\Iesi.Collections.xml
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_FrontEnd\bin\Debug\NHibernate.xml
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_FrontEnd\bin\Debug\Remotion.Linq.xml
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_FrontEnd\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_FrontEnd\obj\Debug\RestaurantManagement_FrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_FrontEnd\obj\Debug\RestaurantManagement_FrontEnd.AdminForm.resources
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_FrontEnd\obj\Debug\RestaurantManagement_FrontEnd.LoginForm.resources
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_FrontEnd\obj\Debug\RestaurantManagement_FrontEnd.Properties.Resources.resources
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_FrontEnd\obj\Debug\RestaurantManagement_FrontEnd.UserInformationForm.resources
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_FrontEnd\obj\Debug\RestaurantManagement_FrontEnd.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_FrontEnd\obj\Debug\RestaurantManagement_FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_FrontEnd\obj\Debug\RestaurantManagement_FrontEnd.csproj.CopyComplete
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_FrontEnd\obj\Debug\RestaurantManagement_FrontEnd.exe
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_FrontEnd\obj\Debug\RestaurantManagement_FrontEnd.pdb
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_FrontEnd\bin\Debug\RestaurantManagement_DAO.dll
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_FrontEnd\bin\Debug\RestaurantManagement_DAO.pdb
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_FrontEnd\bin\Debug\RestaurantManagement_DTO.dll
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_FrontEnd\bin\Debug\RestaurantManagement_DTO.pdb
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_FrontEnd\obj\Debug\RestaurantManagement_FrontEnd.TableManagerForm.resources
+C:\Users\User\Desktop\First Version\RestaurantManagement_FrontEnd\bin\Debug\RestaurantManagement_FrontEnd.exe.config
+C:\Users\User\Desktop\First Version\RestaurantManagement_FrontEnd\bin\Debug\RestaurantManagement_FrontEnd.exe
+C:\Users\User\Desktop\First Version\RestaurantManagement_FrontEnd\bin\Debug\RestaurantManagement_FrontEnd.pdb
+C:\Users\User\Desktop\First Version\RestaurantManagement_FrontEnd\bin\Debug\Antlr3.Runtime.dll
+C:\Users\User\Desktop\First Version\RestaurantManagement_FrontEnd\bin\Debug\Iesi.Collections.dll
+C:\Users\User\Desktop\First Version\RestaurantManagement_FrontEnd\bin\Debug\NHibernate.dll
+C:\Users\User\Desktop\First Version\RestaurantManagement_FrontEnd\bin\Debug\Remotion.Linq.dll
+C:\Users\User\Desktop\First Version\RestaurantManagement_FrontEnd\bin\Debug\Remotion.Linq.EagerFetching.dll
+C:\Users\User\Desktop\First Version\RestaurantManagement_FrontEnd\bin\Debug\RestaurantManagement_DTO.dll
+C:\Users\User\Desktop\First Version\RestaurantManagement_FrontEnd\bin\Debug\RestaurantManagement_DAO.dll
+C:\Users\User\Desktop\First Version\RestaurantManagement_FrontEnd\bin\Debug\RestaurantManagement_DTO.pdb
+C:\Users\User\Desktop\First Version\RestaurantManagement_FrontEnd\bin\Debug\Antlr3.Runtime.xml
+C:\Users\User\Desktop\First Version\RestaurantManagement_FrontEnd\bin\Debug\Iesi.Collections.xml
+C:\Users\User\Desktop\First Version\RestaurantManagement_FrontEnd\bin\Debug\NHibernate.xml
+C:\Users\User\Desktop\First Version\RestaurantManagement_FrontEnd\bin\Debug\Remotion.Linq.xml
+C:\Users\User\Desktop\First Version\RestaurantManagement_FrontEnd\bin\Debug\Remotion.Linq.EagerFetching.xml
+C:\Users\User\Desktop\First Version\RestaurantManagement_FrontEnd\bin\Debug\RestaurantManagement_DAO.pdb
+C:\Users\User\Desktop\First Version\RestaurantManagement_FrontEnd\obj\Debug\RestaurantManagement_FrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\First Version\RestaurantManagement_FrontEnd\obj\Debug\RestaurantManagement_FrontEnd.LoginForm.resources
+C:\Users\User\Desktop\First Version\RestaurantManagement_FrontEnd\obj\Debug\RestaurantManagement_FrontEnd.Properties.Resources.resources
+C:\Users\User\Desktop\First Version\RestaurantManagement_FrontEnd\obj\Debug\RestaurantManagement_FrontEnd.TableManagerForm.resources
+C:\Users\User\Desktop\First Version\RestaurantManagement_FrontEnd\obj\Debug\RestaurantManagement_FrontEnd.csproj.GenerateResource.cache
+C:\Users\User\Desktop\First Version\RestaurantManagement_FrontEnd\obj\Debug\RestaurantManagement_FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\First Version\RestaurantManagement_FrontEnd\obj\Debug\RestaurantManagement_FrontEnd.csproj.CopyComplete
+C:\Users\User\Desktop\First Version\RestaurantManagement_FrontEnd\obj\Debug\RestaurantManagement_FrontEnd.exe
+C:\Users\User\Desktop\First Version\RestaurantManagement_FrontEnd\obj\Debug\RestaurantManagement_FrontEnd.pdb

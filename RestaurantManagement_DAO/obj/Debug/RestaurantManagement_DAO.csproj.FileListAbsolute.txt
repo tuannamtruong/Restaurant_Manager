@@ -1,0 +1,22 @@
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_DAO\bin\Debug\RestaurantManagement_DAO.dll
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_DAO\bin\Debug\RestaurantManagement_DAO.pdb
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_DAO\bin\Debug\Iesi.Collections.dll
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_DAO\bin\Debug\NHibernate.dll
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_DAO\bin\Debug\Iesi.Collections.xml
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_DAO\bin\Debug\NHibernate.xml
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_DAO\obj\Debug\RestaurantManagement_DAO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_DAO\obj\Debug\RestaurantManagement_DAO.csproj.CopyComplete
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_DAO\obj\Debug\RestaurantManagement_DAO.dll
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_DAO\obj\Debug\RestaurantManagement_DAO.pdb
+C:\Users\User\Desktop\ManagementApplication - Kopie - Kopie\RestaurantManagement_DAO\obj\Debug\RestaurantManagement_DAO.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\First Version\RestaurantManagement_DAO\bin\Debug\RestaurantManagement_DAO.dll
+C:\Users\User\Desktop\First Version\RestaurantManagement_DAO\bin\Debug\RestaurantManagement_DAO.pdb
+C:\Users\User\Desktop\First Version\RestaurantManagement_DAO\bin\Debug\Iesi.Collections.dll
+C:\Users\User\Desktop\First Version\RestaurantManagement_DAO\bin\Debug\NHibernate.dll
+C:\Users\User\Desktop\First Version\RestaurantManagement_DAO\bin\Debug\Iesi.Collections.xml
+C:\Users\User\Desktop\First Version\RestaurantManagement_DAO\bin\Debug\NHibernate.xml
+C:\Users\User\Desktop\First Version\RestaurantManagement_DAO\obj\Debug\RestaurantManagement_DAO.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\First Version\RestaurantManagement_DAO\obj\Debug\RestaurantManagement_DAO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\First Version\RestaurantManagement_DAO\obj\Debug\RestaurantManagement_DAO.csproj.CopyComplete
+C:\Users\User\Desktop\First Version\RestaurantManagement_DAO\obj\Debug\RestaurantManagement_DAO.dll
+C:\Users\User\Desktop\First Version\RestaurantManagement_DAO\obj\Debug\RestaurantManagement_DAO.pdb
